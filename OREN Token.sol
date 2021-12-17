@@ -1,5 +1,5 @@
 /**
- *Submitted for verification at BscScan.com on 2021-12-07
+ *Submitted for verification at BscScan.com on 2021-12-07.
 */
 
 // File: @openzeppelin/contracts/token/BEP20/IBEP20.sol
